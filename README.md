@@ -1,5 +1,7 @@
 # Peter Lasne
 
+![headshot](headshot.png)
+
 A little about me:
 * I have held many roles in IT for more than 20 years, but I am an application developer at heart.
 * I have designed, developed, and implemented hundreds of enterprise applications.
