@@ -1,5 +1,9 @@
 # Peter Lasne
 
+Me | Skills
+---|---
+![headshot](images/headshot.png) | ![Node.js](images/node_js.png)
+
 A little about me:
 * I have held many roles in IT for more than 20 years, but I am an application developer at heart.
 * I have designed, developed, and implemented hundreds of enterprise applications.
