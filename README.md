@@ -1,5 +1,6 @@
 # Peter Lasne
 
+| | |
 |---|---|
 | ![headshot](images/headshot.png) | ![Node.js](images/node_js.png) ![C#](images/c_sharp.png) ![Arduino](images/arduino.png) ![Unity](images/unity.png) |
 
