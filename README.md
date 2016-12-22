@@ -17,9 +17,9 @@ A little about me:
 ## Find out more
 
 * My resume.
-* A visual reference for some of my earlier work.
 * Some notable projects over my career.
 * A great sample project.
+* A [visual reference](visual.pdf) for some of my early work at MedCath.
 
 ## Why GitHub
 
