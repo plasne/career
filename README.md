@@ -1,5 +1,6 @@
 # Peter Lasne
 
+Me | Skills
 ---|---
 ![headshot](images/headshot.png) | ![Node.js](images/node_js.png)
 
