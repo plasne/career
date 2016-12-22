@@ -2,7 +2,7 @@
 
 Me | Skills
 ---|---
-![headshot](images/headshot.png) | ![Node.js](images/node_js.png)
+![headshot](images/headshot.png) | ![Node.js](images/node_js.png) ![C#](images/c_sharp.png) ![Unity](images/unity.png) ![Arduino](images/arduino.png)
 
 A little about me:
 * I have held many roles in IT for more than 20 years, but I am an application developer at heart.
