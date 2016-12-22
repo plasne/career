@@ -4,6 +4,9 @@ The following are notable projects I led or was involved in. These start with th
 
 ## Microsoft
 
+### Multi-Service Availability
+* I developed the [MSA](https://github.com/plasne/Multi-Service-Availability) application to address the challenges with understanding and controlling service health when deploying a microservices application across multiple regions.
+
 ### Improve Engage in Azure
 * I am the primary resource working with Allegion on architecting a new design for their Engage platform that focuses on a modern application architecture and implementing improved resiliency.
 
