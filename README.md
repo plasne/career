@@ -16,9 +16,9 @@ A little about me:
 
 ## Find out more
 
-* My resume.
-* Some notable projects over my career.
-* A great sample project.
+* My [resume](resume.docx).
+* Some notable [projects](projects.md) over my career.
+* A great sample [project](https://github.com/plasne/Multi-Service-Availability) of my recent work.
 * A [visual reference](visual.pdf) for some of my early work at MedCath.
 
 ## Why GitHub
