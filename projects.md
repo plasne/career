@@ -4,6 +4,15 @@ The following are notable projects I led or was involved in. These start with th
 
 ## Microsoft
 
+### HPE GPAS to Azure
+* I helped design the appropriate architecture and assisted with the implementation of HP Enterprise Software's deployment of GPAS on Azure. The most notable challenges included a HADR configuration of SQL Server 2016 and SMTP relay services.
+
+### Data Pipeline for PROS
+* I helped design a [data pipeline](https://github.com/plasne/ADFHDIPIG-pipeline) process for PROS for the ingress of data from their customers and egress back to those customers. This involved orchestration using Azure Data Factory and transformation using Apache Pig on Hadoop. There were a lot of areas that required custom code and so I wrote all that using Java. There was a requirement for consolidated logging and the visualization of those logs was written by me in Node.js.
+
+### Public Cloud for OpenText
+* I helped design the appropriate architecture for OpenText's Content Server product to be deployed in Azure for their first production customer in a public cloud. The most notable challenge of this project was ensuring high-performance, highly-available shared storage that could also be used for disaster recovery scenarios.
+
 ### Multi-Service Availability
 * I developed the [MSA](https://github.com/plasne/Multi-Service-Availability) application to address the challenges with understanding and controlling service health when deploying a microservices application across multiple regions.
 
