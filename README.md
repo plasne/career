@@ -22,9 +22,10 @@ A little about me:
 
 * My [resume](resume.docx).
 * Some notable [projects](projects.md) over my career.
-* A great sample [project](https://github.com/plasne/Multi-Service-Availability) of my recent work.
+* A recent [coding project](https://github.com/plasne/Multi-Service-Availability).
+* A recent [end-to-end solution](https://github.com/plasne/ADFHDIPIG-pipeline) that I helped design and wrote code for.
 * A [visual reference](visual.pdf) for some of my early work at MedCath.
 
 ## Why GitHub
 
-This may seem an unusual place to store career information, but GitHub is the online presence I spend the most time with so it seems a good fit for the moment. Any position I consider with include some application architecture and/or development, so if you want to review code I have written this is a great place to find some.
+This may seem an unusual place to store career information, but GitHub is the online presence I spend the most time with so it seems a good fit for the moment. Any position I consider will likely include some application architecture and/or development, so if you want to review code I have written this is a great place to find some.
